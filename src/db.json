@@ -1,0 +1,13 @@
+
+{
+   "products":[
+    {
+        "id":1,
+        "name":"",
+        "desc":"",
+        "disc":"",
+        "image":"./assets/products/image1.png",
+        "price":""
+    }
+   ] 
+}
